@@ -9,7 +9,7 @@
 |Password Manager	  |[KeePassXC](https://keepassxc.org/) [Bitwarden](https://bitwarden.com/)|
 |Status Bar	        |[Yasb](https://github.com/amnweb/yasb)         |
 |Window Manager     |[GlazeWM](https://github.com/glzr-io/glazewm)  |
-|App Launcher	      |[Flow Launcher](https://www.flowlauncher.com/) |
+|App Launcher	      |[Flow Launcher](https://www.flowlauncher.com/) [WinLaunch](https://winlaunch.com/) |
 |Taskbar	          |[Windhawk](https://windhawk.net/)              |
 |Text/Code Editor   |[VSCode](https://code.visualstudio.com/) [Notepad++](https://notepad-plus-plus.org/) [Sublime Text](https://www.sublimetext.com/)|
 |Browser	          |[Brave](https://brave.com/)                    |
