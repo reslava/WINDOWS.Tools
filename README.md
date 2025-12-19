@@ -2,7 +2,7 @@
 (In progress...🚧) 
 
 ## 🪟 Windows Tools
-|🛠️ Tool           |	🔗 App                                       |
+|🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
 |File Manager	      |[DoubleCommander]()                            |
 |           	      |[MultiCommander]()                             |
@@ -17,25 +17,33 @@
 |                   |[Notepad++](https://notepad-plus-plus.org/)    |
 |                   |[Sublime Text](https://www.sublimetext.com/)   |      
 |Terminal	Windows   |Terminal                                       |
-|Browser	          |Brave                                          |
-|System Fetch	      |Fastfetch                                      |
-|Shell Prompt	      |Oh My Posh                                     |
-|Audio Visualizer	  |Cava                                           |
-|Music Player	      |MusicBee                                       |
-|           	      |Foobar2000                                     |
+|Browser	          |[Brave](https://brave.com/)                    |
+|System Fetch	      |[Fastfetch](https://github.com/fastfetch-cli/fastfetch)|
+|Shell Prompt	      |[Oh My Posh](https://ohmyposh.dev/)            |
+|Music Player	      |[MusicBee](https://getmusicbee.com/)           |
+|           	      |[Foobar2000](https://www.foobar2000.org/)      |
 |Note Taking	      |[Notion](https://www.notion.com/)              |
 |                   |[Notesnook](https://notesnook.com/)            |
-|Screen Recording	  |OBS Studio                                     |
+|Screen Recording	  |[OBS Studio](https://obsproject.com/)          |
 |File Explorer Mod	|ExplorerBlurMica                               |
+|USB Drive Letter Manager|[USBDLM](https://www.uwe-sieber.de/usbdlm_e.html)|
 
 ### 🌐 Online tools:
-|🛠️ Tool	          |🔗 App                                        |
+|🛠️ Tool	          |🔗 App                                         |
 |:---               |:---                                           |
-| Temp Mail         |[Temp Mail](https://temp-mail.org/en/)         |
-
+|Temp Mail          |[Temp Mail](https://temp-mail.org/en/)         |
+|Emojipedia         |[Emojipedia](https://emojipedia.org/)          |
 
 ### Other:
-|🛠️ Tool	         |🔗 App                                         |
+|🛠️ Tool	         |🔗 App                                          |
 |:---               |:---                                           | 
-|Colorscheme	      |Catppuccin Mocha                               |
-|Font	              | JetBrainsMono Nerd Font                       |  
+|Colorscheme	      |[Catppuccin Mocha](https://catppuccin.com/palette/)           |
+|Font	              |[JetBrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/)|  
+
+### VSCode Extensions:
+|🛠️ Tool	          |🔗 App                                         |
+|:---               |:---                                           |
+|Apperance          |[Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)|
+|                   |[Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)| 
+|                   |[VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)| 
+|API                |[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)|
