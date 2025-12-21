@@ -48,7 +48,7 @@
 
 ---
 ---
-### [Oh My Posh](https://ohmyposh.dev/)
+### ▶️[Oh My Posh](https://ohmyposh.dev/)
 
 #### Windows Installation
 - [Tutorial - Set up a custom prompt for PowerShell or WSL with Oh My Posh](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup?source=docs)
@@ -59,8 +59,8 @@
 - [segments](https://ohmyposh.dev/docs/segments)
 ---
 ---
-
-### 📁 TIP: Show the size of folders
+### 🔎[Everything](https://www.voidtools.com/)
+#### 📁 TIP: Show the size of folders
 
 To show the size of folders in **Everything, Explorer and Multicommander** follow the next steps:
 
@@ -82,7 +82,7 @@ To show the size of folders in **Everything, Explorer and Multicommander** follo
 
 ---
 ---
-### [Windhawk](https://windhawk.net/)
+### 🖥️[Windhawk](https://windhawk.net/)
 
 #### Installed Mods
 This are the modes I use:
