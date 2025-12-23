@@ -1,5 +1,9 @@
 ># 🐠 [Fish Shell](https://fishshell.com/) 🐠
 
+>Fish Shell is a user-friendly command-line shell designed for interactive use, offering features like syntax highlighting, autosuggestions, and script compatibility with Bash and Zsh. It is available for Linux, macOS, and Windows (via WSL). 
+
+For more information, visit [GitHub](https://github.com/fish-shell/fish-shell)
+
 ## 📦 Installation
 
 ### 🪟 Windows (WSL)
