@@ -33,6 +33,6 @@ dotnet new packagesprops
     <PackageReference Include="Package2" />
   </ItemGroup>
 </Project>
-```xml
+```
 4. Add the `Directory.Packages.props` file to the solution.
 5. Build the solution.  
