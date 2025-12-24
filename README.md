@@ -32,6 +32,12 @@
 |API                |[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)|
 |Appearance         |[Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) * - [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) * - [VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) *|
 
+### 🔌Visual Studio:
+|🛠️ Tool	         |🔗 App                                         |
+|:---               |:---                                            |
+|CPM                |[Central Package Management](setups/CPM.md)     |
+
+
 >## 🌐 Online tools:
 |🛠️ Tool	          |🔗 App                                         |
 |:---               |:---                                           |
