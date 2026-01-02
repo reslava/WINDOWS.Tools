@@ -26,6 +26,7 @@
 |🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
 |Code/Text Editor   |[VSCode](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/) - [Sublime Text](https://www.sublimetext.com/) *|
+|Responsive         |[Responsiveky.app](responsiveky.app)           |
 
 ### 🔌VSCode Extensions:
 |🛠️ Tool	          |🔗 App                                         |
@@ -39,6 +40,13 @@
 |Youtube            |[PocketTube channels](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) - [PocketTube playlists](https://chromewebstore.google.com/detail/pockettube-youtube-playli/bplnofkhjdphoihfkfcddikgmecfehdd)|
 |                   | |
 
+Databases
+Datagrid de JetBrains
+DBeaver
+
+Variables de entorno password
+Infisical scretops
+HashiCorp Vault
 
 ### 🔌Visual Studio:
 |🛠️ Tool	         |🔗 App                                         |
