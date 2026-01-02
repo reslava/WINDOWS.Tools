@@ -4,17 +4,44 @@
     ".": {  
       "release-type": "node",
       "changelog-path": "CHANGELOG.md",    
+      "changelog-types": [
+        {
+          "type": "feat",
+          "section": "✨ New Features",
+          "hidden": false
+        },
+        {
+          "type": "fix",
+          "section": "🐛 Fixes",
+          "hidden": false
+        },
+        {
+          "type": "docs",
+          "section": "📚 Documentation",
+          "hidden": false
+        },
+        {
+          "type": "style",
+          "section": "💄 Styling",
+          "hidden": false
+        },
+        {
+          "type": "refactor",
+          "section": "♻️ Refactoring",
+          "hidden": false
+        },
+        {
+          "type": "chore",
+          "section": "🔧 Chores",
+          "hidden": true
+        }
+      ],
       "changelog-sections": [
-        {"type": "feat", "section": "✨ Features"},
-        {"type": "fix", "section": "🐛 BEST Bug Fixes"},
-        {"type": "docs", "section": "📚 Documentation"},
-        {"type": "style", "section": "💄 Styling"},
-        {"type": "refactor", "section": "♻️ Code Refactoring"},
-        {"type": "perf", "section": "⚡ Performance Improvements"},
-        {"type": "test", "section": "✅ Tests"},
-        {"type": "build", "section": "🔨 Build System"},
-        {"type": "ci", "section": "👷 CI/CD"},
-        {"type": "chore", "section": "🔧 Miscellaneous"}
+        "✨ New Features",
+        "🐛 Fixes",
+        "📚 Documentation",
+        "💄 Styling",
+        "♻️ Refactoring"
       ],
       "include-component-in-tag": false,
       "include-v-in-tag": true
