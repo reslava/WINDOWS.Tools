@@ -21,12 +21,15 @@
 |Status Bar	        |[Yasb](https://github.com/amnweb/yasb) *         |
 |Window Manager     |[GlazeWM](https://github.com/glzr-io/glazewm) *  |
 |System Fetch	      |[Fastfetch](https://github.com/fastfetch-cli/fastfetch) *|
+|Browser extensions |[PocketTube channels](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) - [PocketTube playlists](https://chromewebstore.google.com/detail/pockettube-youtube-playli/bplnofkhjdphoihfkfcddikgmecfehdd)|
 
 > ##  👨🏽‍💻 Dev Tools
 |🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
 |Code/Text Editor   |[VSCode](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/) - [Sublime Text](https://www.sublimetext.com/) *|
 |Responsive         |[Responsiveky.app](responsiveky.app)           |
+| Databases         |[Datagrid](https://datagrid.com/) - [DBeaver](https://dbeaver.io/)|
+| Secrets           |[Infisical](https://infisical.com/)-[HashiCorp Vault](https://www.hashicorp.com/es/products/vault)|
 
 ### 🔌VSCode Extensions:
 |🛠️ Tool	          |🔗 App                                         |
@@ -34,27 +37,13 @@
 |API                |[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)|
 |Appearance         |[Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) * - [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) * - [VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) *|
 
-### 🔌Brave extensions:
-|🛠️ Tool	          |🔗 App                                         |
-|:---               |:---                                           |
-|Youtube            |[PocketTube channels](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) - [PocketTube playlists](https://chromewebstore.google.com/detail/pockettube-youtube-playli/bplnofkhjdphoihfkfcddikgmecfehdd)|
-|                   | |
-
-Databases
-Datagrid de JetBrains
-DBeaver
-
-Variables de entorno password
-Infisical scretops
-HashiCorp Vault
-
 ### 🔌Visual Studio:
 |🛠️ Tool	         |🔗 App                                         |
 |:---               |:---                                            |
 |CPM                |[Central Package Management](setups/CPM.md)     |
 
 ### 🔌Git:
-|🛠️ Tool	         |🔗 App - Convention                                         |
+|🛠️ Tool	         |🔗 App - Convention                           |
 |:---               |:---                                            |
 |Changelog       |[Keep a Changelog](https://keepachangelog.com)    |
 |Versioning      |[Semantic Versioning](https://semver.org)      |
