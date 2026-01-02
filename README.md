@@ -128,4 +128,4 @@ This are the modes I use:
 *** Added CI release-please to automate changelog and versioning 
 *** Config release.please.yml testing ***
 *** fix: verify emoji changelog automation 
-*** checkout & commit <<<***
+*** checkout & commit 
