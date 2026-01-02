@@ -125,4 +125,5 @@ This are the modes I use:
 
 [Typegrow](https://typegrow.com/)
 
-*** Added CI release-please to automate changelog and versioning : DONE ***
+*** Added CI release-please to automate changelog and versioning 
+*** config fixed
