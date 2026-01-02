@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+## [1.7.4](https://github.com/reslava/WINDOWS.Tools/compare/v1.7.3...v1.7.4) (2026-01-02)
+
+
+### Bug Fixes
+
+* emojis ([223cf8b](https://github.com/reslava/WINDOWS.Tools/commit/223cf8b2fc2a4f4b8ffd1f22999761696b5ba902))
+
 ## [1.7.3](https://github.com/reslava/WINDOWS.Tools/compare/v1.7.2...v1.7.3) (2026-01-02)
 
 
