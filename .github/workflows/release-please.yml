@@ -18,21 +18,5 @@ jobs:
         with:
           release-type: simple            
           config-file: release-please-config.json
-          manifest-file: .release-please-manifest.json  
-          
-      - name: Checkout repository
-        uses: actions/checkout@v4
+          manifest-file: .release-please-manifest.json          
       
-      - name: Add emoji headers to CHANGELOG        
-        run: |
-          if: ${{ steps.release.outputs.release_created == 'true' || steps.release.outputs.pr_created == 'true' }}
-          sed -i 's/^### Bug Fixes/### 🐛 Bug Fixes/' CHANGELOG.md   
-           
-      - name: Commit emoji changelog headers
-        run: |
-          if: ${{ steps.release.outputs.release_created == 'true' || steps.release.outputs.pr_created == 'true' }}
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add CHANGELOG.md
-          git commit -m "chore: add emoji changelog headers" || echo "No changes to commit"
-          git push      
