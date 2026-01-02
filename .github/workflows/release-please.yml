@@ -17,5 +17,5 @@ jobs:
         with:
           release-type: simple            
           config-file: release-please-config.json
-          manifest-file: .release-please-manifest.json       
+          manifest-file: .release-please-manifest.json   
           
