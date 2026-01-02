@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+## [1.6.1](https://github.com/reslava/WINDOWS.Tools/compare/v1.6.0...v1.6.1) (2026-01-02)
+
+
+### Bug Fixes
+
+* Best bug fixed ([d8e996d](https://github.com/reslava/WINDOWS.Tools/commit/d8e996d425deeacd4aca11914a4b789a3b0dc0f0))
+* config ([a812cbf](https://github.com/reslava/WINDOWS.Tools/commit/a812cbff0b5b569f57a31f3863f5c9d2a1b22596))
+
 ## [1.6.0](https://github.com/reslava/WINDOWS.Tools/compare/v1.5.0...v1.6.0) (2026-01-02)
 
 
