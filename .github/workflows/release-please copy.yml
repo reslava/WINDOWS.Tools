@@ -1,0 +1,38 @@
+name: Release Please
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: googleapis/release-please-action@v4
+        id: release
+        with:
+          release-type: simple            
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json   
+      
+      - name: Add emoji headers to CHANGELOG
+        if: ${{ steps.release.outputs.release_created == 'true' || steps.release.outputs.pr_created == 'true' }}
+        run: |
+          sed -i 's/^### Bug Fixes/### 🐛 Bug Fixes/' CHANGELOG.md
+          sed -i 's/^### Features/### ✨ Features/' CHANGELOG.md
+          sed -i 's/^### Documentation/### 📚 Documentation/' CHANGELOG.md
+      
+      - name: Commit emoji changelog headers
+        if: ${{ steps.release.outputs.pr_created == 'true' }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add CHANGELOG.md
+          git commit -m "chore: add emoji changelog headers" || echo "No changes to commit"
+          git push
+          
