@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+## [1.2.0](https://github.com/reslava/WINDOWS.Tools/compare/v1.1.0...v1.2.0) (2026-01-02)
+
+
+### Features
+
+* RP.config.json fixed ([a03f282](https://github.com/reslava/WINDOWS.Tools/commit/a03f28280bc28676499255eb0055592d544e0ff4))
+
 ## [1.1.0](https://github.com/reslava/WINDOWS.Tools/compare/v1.0.0...v1.1.0) (2026-01-02)
 
 
