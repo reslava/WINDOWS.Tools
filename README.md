@@ -1,7 +1,7 @@
-># 💯 Useful tools 💯
+# 💯 Useful tools 💯
 
 (In progress...🚧) 
->## 🪟 Windows Tools
+## 🪟 Windows Tools
 |🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
 |File Manager	      |[DoubleCommander](https://doublecmd.sourceforge.io/) - [MultiCommander](https://multicommander.com/) - [FreeCommander](https://freecommander.com/) *|
@@ -24,7 +24,7 @@
 |Browser extensions |[PocketTube channels](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) - [PocketTube playlists](https://chromewebstore.google.com/detail/pockettube-youtube-playli/bplnofkhjdphoihfkfcddikgmecfehdd)|
 |LinkedIn            |[Typegrow](https://typegrow.com/)                |
 
-> ##  👨🏽‍💻 Dev Tools
+##  👨🏽‍💻 Dev Tools
 |🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
 |Code/Text Editor   |[VSCode](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/) - [Sublime Text](https://www.sublimetext.com/) *|
@@ -49,8 +49,12 @@
 |Changelog       |[Keep a Changelog](https://keepachangelog.com)    |
 |Versioning      |[Semantic Versioning](https://semver.org)      |
 
+## 🤖 AI:
+|🛠️ Tool	          |🔗 App                                         |
+|:---               |:---                                           |
+|Local              |[llamacpp]()
 
->## 🌐 Online tools:
+## 🌐 Online tools:
 |🛠️ Tool	          |🔗 App                                         |
 |:---               |:---                                           |
 |Temp Mail          |[Temp Mail](https://temp-mail.org/en/)         |
@@ -58,22 +62,22 @@
 |Media Store        |[MediaFire](https://www.mediafire.com/) * - [cloudinary.com](https://cloudinary.com/) *|
 |Diagrams           |[Mermaid](https://mermaid.js.org/) - [Excalidraw](https://excalidraw.com/) * [tldraw](https://www.tldraw.com/) - [miro](https://miro.com/) *|
 
->## Other:
+## Other:
 |🛠️ Tool	         |🔗 App                                          |
 |:---               |:---                                           | 
 |Colorscheme	      |[Catppuccin Mocha](https://catppuccin.com/palette/) *           |
 |Font	              |[JetBrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/) *|  
 
+---
 
----
----
 ### 🔤[Nerd Fonts](https://www.nerdfonts.com/)    
 - [Cascadia Code](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) (for code)    
 - [MesloLG](https://github.com/andreberg/Meslo-Font) (for terminal with icons)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) *
 - [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) *
+
 ---
----
+
 ### ▶️[Oh My Posh](https://ohmyposh.dev/)
 
 #### Windows Installation
@@ -90,8 +94,9 @@
 - [rafeslava.omp.json](files/rafeslava.omp.json)
 
 - [rafeslava.omp.yaml](files/rafeslava.omp.yaml)
+
 ---
----
+
 ### 🔎[Everything](https://www.voidtools.com/)
 #### 📁 TIP: Show the size of folders
 
@@ -114,7 +119,7 @@ To show the size of folders in **Everything, Explorer and Multicommander** follo
   ![Multicomander show folder size using Everything](images/Multicommander-Everything-show-folder-size.png)
 
 ---
----
+
 ### 🖥️[Windhawk](https://windhawk.net/)
 
 #### Installed Mods
