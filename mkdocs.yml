@@ -1,0 +1,40 @@
+site_name: Windows Tools Documentation
+site_description: Windows tools and utilities documentation
+site_url: https://reslava.github.io/docs-windows-tools/
+
+repo_name: reslava/docs-windows-tools
+repo_url: https://github.com/reslava/docs-windows-tools
+edit_uri: edit/main/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Tools: tools.md
+  - FAQ: faq.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.details
+  - pymdownx.snippets
+
+plugins:
+  - search
